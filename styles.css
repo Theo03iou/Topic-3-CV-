@@ -1,0 +1,53 @@
+* {
+    
+}
+body {
+    background-color: rgb(49, 49, 49);
+    width: 80%;
+    margin: auto;
+}
+
+header {
+    background-color: green;
+    color: white;
+    font-size: small;
+}
+
+.header-text {
+    text-align: center;
+    font-weight: bold;
+}
+
+.header-text h1, h2 {
+    margin: 0 0 0 2rem;
+}
+
+.header-text, h1 {
+    padding-top: .5rem;
+} 
+
+.links {
+    background-color: lightgreen;
+}
+
+nav li {
+    display: inline-flex; 
+    font-size: large;
+    font-weight: bold;
+    margin-left: 6rem;
+    padding: 2%;
+}
+
+.abt-myself {
+    background-color: white;
+    padding: 1rem;
+    margin-bottom: 1rem;
+}
+
+footer {
+    background-color: green;
+    color: white;
+    height: 5rem;
+    padding: .5rem 0 1rem 2rem;
+}
+
